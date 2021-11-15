@@ -1,0 +1,14 @@
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.exe
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.deps.json
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.json
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.dev.json
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.dll
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.pdb
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csproj.AssemblyReference.cache
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfo.cs
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.dll
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.pdb
+C:\Users\MY PC\Desktop\BridgeLabz\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.genruntimeconfig.cache
